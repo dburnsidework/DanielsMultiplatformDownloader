@@ -1,8 +1,10 @@
-Daniel's YouTube Downloader
+Daniel's MultiPlatform Downloader
 
 A sleek, lightweight YouTube and media downloader built with Python, Tkinter, and yt-dlp. This tool allows you to download videos in various qualities or convert them directly to MP3 with a single click.
 
 Features
+
+    Mutli platform support!! You can download from YouTube, instagram and more, All from one GUI.
 
     Simple GUI: No command line needed. Just paste and click.
 
